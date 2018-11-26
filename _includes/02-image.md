@@ -1,1 +1,1 @@
-![Image of Griffin](https://clipground.com/images/griffin-clipart-9.jpg)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
